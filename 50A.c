@@ -1,3 +1,5 @@
+// Domino pilling
+
 #include<stdio.h>
 int main()
 {
