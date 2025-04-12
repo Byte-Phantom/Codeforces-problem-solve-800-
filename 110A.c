@@ -1,3 +1,5 @@
+// Nearly Lucky Number
+
 #include<stdio.h>
 int main()
 {
