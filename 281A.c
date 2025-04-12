@@ -1,3 +1,5 @@
+// Word Capitalization
+
 #include<stdio.h>
 int main()
 {
