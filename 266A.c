@@ -1,3 +1,5 @@
+// Stones on the Table
+
 #include<stdio.h>
 int main()
 {
